@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/state-machine-tool/precache-manifest.5b264eab0282499cdffce1e6d10c9ed1.js"
+  "/state-machine-editor/precache-manifest.36e278e2d032ce453d5aafffab309ad8.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/state-machine-tool/index.html", {
+workbox.routing.registerNavigationRoute("/state-machine-editor/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

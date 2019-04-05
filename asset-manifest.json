@@ -1,15 +1,15 @@
 {
-  "main.css": "/state-machine-tool/static/css/main.bcca82ca.chunk.css",
-  "main.js": "/state-machine-tool/static/js/main.b7288e7d.chunk.js",
-  "main.js.map": "/state-machine-tool/static/js/main.b7288e7d.chunk.js.map",
-  "static/css/1.e410531c.chunk.css": "/state-machine-tool/static/css/1.e410531c.chunk.css",
-  "static/js/1.87a55d88.chunk.js": "/state-machine-tool/static/js/1.87a55d88.chunk.js",
-  "static/js/1.87a55d88.chunk.js.map": "/state-machine-tool/static/js/1.87a55d88.chunk.js.map",
-  "runtime~main.js": "/state-machine-tool/static/js/runtime~main.6bcd5c3b.js",
-  "runtime~main.js.map": "/state-machine-tool/static/js/runtime~main.6bcd5c3b.js.map",
-  "static/css/1.e410531c.chunk.css.map": "/state-machine-tool/static/css/1.e410531c.chunk.css.map",
-  "static/css/main.bcca82ca.chunk.css.map": "/state-machine-tool/static/css/main.bcca82ca.chunk.css.map",
-  "index.html": "/state-machine-tool/index.html",
-  "precache-manifest.5b264eab0282499cdffce1e6d10c9ed1.js": "/state-machine-tool/precache-manifest.5b264eab0282499cdffce1e6d10c9ed1.js",
-  "service-worker.js": "/state-machine-tool/service-worker.js"
+  "main.css": "/state-machine-editor/static/css/main.bcca82ca.chunk.css",
+  "main.js": "/state-machine-editor/static/js/main.05111ec0.chunk.js",
+  "main.js.map": "/state-machine-editor/static/js/main.05111ec0.chunk.js.map",
+  "static/css/1.e410531c.chunk.css": "/state-machine-editor/static/css/1.e410531c.chunk.css",
+  "static/js/1.87a55d88.chunk.js": "/state-machine-editor/static/js/1.87a55d88.chunk.js",
+  "static/js/1.87a55d88.chunk.js.map": "/state-machine-editor/static/js/1.87a55d88.chunk.js.map",
+  "runtime~main.js": "/state-machine-editor/static/js/runtime~main.0356f5f2.js",
+  "runtime~main.js.map": "/state-machine-editor/static/js/runtime~main.0356f5f2.js.map",
+  "static/css/main.bcca82ca.chunk.css.map": "/state-machine-editor/static/css/main.bcca82ca.chunk.css.map",
+  "static/css/1.e410531c.chunk.css.map": "/state-machine-editor/static/css/1.e410531c.chunk.css.map",
+  "index.html": "/state-machine-editor/index.html",
+  "precache-manifest.36e278e2d032ce453d5aafffab309ad8.js": "/state-machine-editor/precache-manifest.36e278e2d032ce453d5aafffab309ad8.js",
+  "service-worker.js": "/state-machine-editor/service-worker.js"
 }
